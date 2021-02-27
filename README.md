@@ -59,4 +59,5 @@ Your estimated house price is
 ## Roadmap for future
 As the app is still in its development stage, we will be improving on it. Current plans include:
 - Distance to primary schools in vicinity
-- Distance to MRT
+- Distance to nearest MRT
+- Improvement on data visualisation

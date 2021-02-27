@@ -61,3 +61,5 @@ As the app is still in its development stage, we will be improving on it. Curren
 - Distance to primary schools in vicinity
 - Distance to nearest MRT
 - Improvement on data visualisation
+- Scrape data directly from data.gov.sg for updated housing prices
+- Distance to shopping centres and other amenities

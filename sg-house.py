@@ -29,7 +29,7 @@ print('Coefficients: \n', lm.coef_)
 
 guess = []
 for i in range(3):
-  print('What is your ' + str(metrics[i]))
+  print('What is the ' + str(metrics[i]) + '?')
   x = float(input())
   guess.append(x)
 est = 0

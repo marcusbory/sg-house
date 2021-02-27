@@ -4,9 +4,9 @@ sg-house is a Linear Regression project created by NUS CEG students Marcus Ong a
 
 ## Background
 
-Using the HDB resale price dataset obtained in 2019, sg-house applies linear regression, a form of supervised machine learning, in order to investigate the relationship between HDB prices against the given metrics, and provide a reliable prediction of the housing prices. 
+Using the HDB resale price dataset obtained in 2019, sg-house applies linear regression, a form of supervised machine learning, in order to investigate the relationship between HDB prices against the given criteria, and provide a reliable prediction of the housing prices. 
 
-Current metrics used: 
+Current criteria used: 
 - Floor Area in square metres
 - Age of house
 - Years of lease remaining

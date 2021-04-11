@@ -1,6 +1,6 @@
 # sg-house
 
-sg-house is a Linear Regression project created by NUS CEG students Marcus Ong and Ng Andre, to predict housing prices in Singapore, based on past datasets.
+sg-house is a Linear Regression project created by NUS CEG students Marcus Ong, Ng Andre, Muhammad Ashraf, and Mun Le Zong, to predict housing prices in Singapore, based on past datasets.
 
 ## Background
 

@@ -25,6 +25,7 @@ from sklearn.linear_model import LinearRegression
 lm = LinearRegression()
 lm.fit(X_train,y_train)
 
+print('Intercept: ', lm.intercept_)
 print('Coefficients: \n', lm.coef_)
 
 guess = []
@@ -32,7 +33,7 @@ for i in range(3):
   print('What is the ' + str(criteria[i]) + '?')
   x = float(input())
   guess.append(x)
-est = 0
+est = lm.intercept_
 for i in range(3):
   est += (guess[i]*lm.coef_[i])
 print('Your estimated house price is ' + str(est))

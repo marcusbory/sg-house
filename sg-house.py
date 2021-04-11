@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-house_data = pd.read_csv('hdb_resale_price_Aug2019.csv')
+house_data = pd.read_csv('hdb_resale_latest.csv')
 print(house_data.describe())
 ''' DATASET DETAILS 
 Criteria used (coefficients of matrices):
